@@ -24,4 +24,6 @@ function sayHiToGrandma(string) {
   mixedCase.toUpperCase()===mixedCase
 }
 
-
+function sayHiToGrandma() {
+  if 
+} 
